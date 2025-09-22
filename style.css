@@ -139,14 +139,14 @@ nav a:hover {
 /* Footer Contact */
 footer {
   text-align: center;
-  padding: 1.5rem 1rem; /* rapet */
+  padding: 1rem 1rem; /* rapet */
   background: #222;
   color: #eee;
   margin-top: 2rem; /* rapet */
 }
 
 footer h2 {
-  font-size: 1.4rem; /* sedikit lebih kecil */
+  font-size: 1rem; /* sedikit lebih kecil */
   margin-bottom: 0.8rem; /* rapet */
 }
 
