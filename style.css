@@ -72,8 +72,8 @@ nav a:hover {
 /* SECTION / BLOG */
 .blog {
   max-width: 700px;
-  margin: 1rem auto;  /* lebih rapet */
-  padding: 1rem;      /* lebih rapet */
+  margin: 1rem auto; /* lebih rapet */
+  padding: 1rem; /* lebih rapet */
   line-height: 1.6;
   font-family: Arial, sans-serif;
 }
@@ -86,7 +86,7 @@ nav a:hover {
 }
 
 .blog p {
-  margin: 0.6rem 0;  /* lebih rapet */
+  margin: 0.6rem 0; /* lebih rapet */
   font-size: 1rem;
 }
 
@@ -101,7 +101,7 @@ nav a:hover {
   margin-bottom: 1rem; /* rapet */
   border-bottom: 2px solid #ddd;
   display: inline-block;
-  padding-bottom: .3rem;
+  padding-bottom: 0.3rem;
 }
 
 .portfolio-grid {
@@ -116,7 +116,7 @@ nav a:hover {
   background: #fff;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
 }
 
@@ -131,7 +131,7 @@ nav a:hover {
 
 .portfolio-item p {
   margin: 0;
-  padding: .6rem; /* rapetin */
+  padding: 0.6rem; /* rapetin */
   font-size: 1rem;
   background: #f9f9f9;
 }
